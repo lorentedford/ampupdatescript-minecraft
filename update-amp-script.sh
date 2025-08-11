@@ -12,6 +12,8 @@
 # This script was originally developed for the Ltcraft.net Minecraft Network.
 # Join the server at: mc.Ltcraft.net
 #
+# Collaboratively developed with Google Gemini.
+#
 # -------------------------------------------------------------------------
 
 # --- Prerequisites & Setup ---
