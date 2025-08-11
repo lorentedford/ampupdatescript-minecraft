@@ -4,6 +4,16 @@
 # Notes: Don't forget to chmod +x ./update-amp-script.sh
 # This script automates updates for Amp panel users and select plugins.
 
+# --- Author & Credits ---
+#
+# Created by Loren Tedford
+# Website: https://lorentedford.com
+#
+# This script was originally developed for the Ltcraft.net Minecraft Network.
+# Join the server at: mc.Ltcraft.net
+#
+# -------------------------------------------------------------------------
+
 # --- Prerequisites & Setup ---
 #
 # Before running this script, ensure your system has all the necessary tools.
