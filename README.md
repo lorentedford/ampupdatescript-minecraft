@@ -1,5 +1,11 @@
 # AMP Minecraft Server Update Script
 
+> **Author:** Loren Tedford ([lorentedford.com](https://lorentedford.com))
+>
+> **Originally developed for:** [Ltcraft.net](https://Ltcraft.net) Minecraft Network (mc.Ltcraft.net)
+>
+> **Collaboratively developed with:** [Google Gemini](https://gemini.google.com)
+
 This script automates the process of updating Spigot/Paper servers, BungeeCord, and various plugins for Minecraft networks managed by CubeCoders' AMP (Application Management Panel).
 
 ---
